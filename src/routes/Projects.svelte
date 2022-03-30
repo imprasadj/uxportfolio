@@ -19,23 +19,14 @@
 </div>
 <section class="projects" id="projects">
     
-    <div class="container1">
-        <div class="textcontainer">
-            <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
-                <h1>01</h1>
-                <h1>Title</h1>
-                <h3>Description</h3>
-                <a href="/">Go to project</a>
-            </div>
-        </div>
-    </div>
+    
     <div class="container2">
         <div class="textcontainer">
             <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
                 <h1>02</h1>
-                <h1>Title</h1>
-                <h3>Description</h3>
-                <a href="/">Go to project</a>
+                <h1>Tesla</h1>
+                <h3>My approach to UI design for right hand driving systems</h3>
+                <a href="/teslaux">Go to project</a>
             </div>
         </div>
     </div>
@@ -44,12 +35,21 @@
             <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
                 <h1>03</h1>
                 <h1>RESQ</h1>
-                <h3>Description</h3>
-                <a href="/">Go to project</a>
+                <h3>App redesign for city's only animal rescue unit</h3>
+                <a href="/resqux">Go to project</a>
             </div>
         </div>
     </div>
-
+    <div class="container1">
+        <div class="textcontainer">
+            <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
+                <h1>01</h1>
+                <h1>AC controls</h1>
+                <h3>AC controls interaction on a vertical display concept(wip)</h3>
+                <a href="/hmiux">Go to project</a>
+            </div>
+        </div>
+    </div>
 
 </section>
 

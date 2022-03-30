@@ -4,7 +4,7 @@
   /* Colours */
   --maintext: rgb(255, 255, 255);
   --sectext: rgb(170, 170, 170);
-  --bgcolor: rgb(17, 17, 17);
+  --bgcolor: #111111;
 }
 html,
 body {

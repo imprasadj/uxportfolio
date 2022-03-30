@@ -10,7 +10,7 @@ import Navbar from "$lib/Navbar.svelte";
     <div class="aboutbox">
             <div class="overlay">
                 <div class="left">
-                    <h2>Hello,<br/> <p>I'm a UX Designer focused on creating a more connected, easier to use world.
+                    <h2>Hello,<br/> <p>I'm a UX Designer who believes in thoughtfully crafted design.
                         Experience design helps me to have my technical knowledge 
                         and my creativity all at the same place to create design solutions.
                         </p>
@@ -26,7 +26,10 @@ import Navbar from "$lib/Navbar.svelte";
         <div class="resumebox">
             <img src="/resume.webp" alt="">
         </div>
-        <button>Download Resume</button>
+        <a href="https://drive.google.com/uc?export=download&id=1ajAUptgS05EmKmivKASB5QNnKypciU-c">
+            <button>Download Resume</button>
+        </a>
+        
     </div>
     
 </div>
