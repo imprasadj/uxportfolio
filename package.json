@@ -1,0 +1,22 @@
+{
+  "name": "uxportfolio",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "package": "svelte-kit package",
+    "preview": "svelte-kit preview",
+    "prepare": "svelte-kit sync"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "next",
+    "@sveltejs/kit": "next",
+    "svelte": "^3.44.0",
+    "svelte-hero-icons": "^4.1.1"
+  },
+  "type": "module",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "svelte-fa": "^2.4.0"
+  }
+}
