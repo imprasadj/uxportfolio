@@ -25,7 +25,7 @@
             <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
                 <p>01</p>
                 <h1>Tesla</h1>
-                <h3>Display UI for right hand driving systems</h3>
+                <h3>Display concept UI for right hand driving systems</h3>
                 <a href="/teslaux">Go to project</a>
             </div>
         </div>
@@ -84,7 +84,8 @@ h2{
     -webkit-backdrop-filter: blur(2px);
 }
 p{
-    font-size: 2.3rem;
+    font-family: "Urbanist",sans-serif;
+    font-size: 3.3rem;
     margin: .1rem 0;
     font-weight: 200;
 }
@@ -94,6 +95,7 @@ h1{
     font-size: 3rem;
 }
 h3{
+    font-family: "Urbanist",sans-serif;
     margin: 2rem 0 .8rem 0;
     font-weight: 300;
     font-size: 1.1rem;
@@ -110,8 +112,8 @@ h3{
 
 .text{
     padding: .5rem;
-    margin-left:10%;
-    margin-right: 4%;
+    margin-left:8%;
+    margin-right: 6%;
     padding-top: 10rem;
     color: aliceblue !important;
 }

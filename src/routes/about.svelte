@@ -77,6 +77,7 @@ import Navbar from "$lib/Navbar.svelte";
     }
     h2{
         font-size: 2rem;
+        font-weight: 600;
         color: var(--maintext);
         margin: 6rem 7rem;  
         line-height: 2.3rem;
@@ -89,7 +90,7 @@ import Navbar from "$lib/Navbar.svelte";
     width: 100%;
     height: 35rem;
     background-color: rgb(243, 243, 243);
-    background-image: url("/photo.png");
+    background-image: url("/photo.webp");
     background-size: 100%;
     
     background-position:center;

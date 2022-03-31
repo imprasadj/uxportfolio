@@ -70,18 +70,18 @@ onMount(() => {
 h1{ 
     font-weight: 700;
     letter-spacing: 1rem;
-    font-size: 2rem;
+    font-size: 2.2rem;
     line-height: 83%;
     text-align: center;
     z-index: 5;
     
-    background: linear-gradient(-70deg, #fcfcfc07, #ffffff6c, #ffffffe1,#eeeeee59,#ffffff88);
+    background: linear-gradient(-70deg, #ffdf86e0, #ffffff6c, #ffffffe1,#c59ae9be,#ffffff88);
     background-size: auto;
     background-clip: border-box;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-size: 800% 700%;
-    animation: gradient 9s ease infinite;
+    background-size: 400% 400%;
+    animation: gradient 11s ease infinite;
 }
 @keyframes gradient{
     0% {
