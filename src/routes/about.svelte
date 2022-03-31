@@ -89,10 +89,10 @@ import Navbar from "$lib/Navbar.svelte";
     width: 100%;
     height: 35rem;
     background-color: rgb(243, 243, 243);
-    background-image: url("/tesla.webp");
-    background-size: auto;
+    background-image: url("/photo.png");
+    background-size: 100%;
     
-    background-position:right;
+    background-position:center;
     background-attachment:scroll;
     }
     
@@ -147,7 +147,10 @@ import Navbar from "$lib/Navbar.svelte";
             font-size: 1.3rem;
             margin: 10% 2.2rem;
         }
-
+        .aboutbox{
+            background-size: auto;
+            background-position: right;
+        }
 
     }
 
