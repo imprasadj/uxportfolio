@@ -59,6 +59,7 @@
 
 
 h3{
+font-family: "Syne", sans-serif;
 font-size: .7rem;
 color: var(--sectext);
 }

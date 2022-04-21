@@ -84,7 +84,7 @@ h2{
     -webkit-backdrop-filter: blur(2px);
 }
 p{
-    font-family: "Urbanist",sans-serif;
+    /* font-family: "Urbanist",sans-serif; */
     font-size: 3.3rem;
     margin: .1rem 0;
     font-weight: 200;
@@ -95,14 +95,14 @@ h1{
     font-size: 3rem;
 }
 h3{
-    font-family: "Urbanist",sans-serif;
-    margin: 2rem 0 .8rem 0;
+    /* font-family: "Urbanist",sans-serif; */
+    margin: 0.8rem 0 2rem 0;
     font-weight: 300;
     font-size: 1.1rem;
 }
 .text a{
     text-decoration: none;
-    padding-top:1rem;
+    padding-top:0.8rem;
     border-bottom: 2px solid white;
     transition: .2s ease-out;
 }

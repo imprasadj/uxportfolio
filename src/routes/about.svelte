@@ -44,9 +44,9 @@ import Navbar from "$lib/Navbar.svelte";
     width:100%;
     display: flex;
     flex-direction: column;
-    z-index: 10;
-           
+    z-index: 10;    
     }
+    
     .title{
         padding: 5% 7%;
         margin: 1rem 0;      
@@ -113,9 +113,13 @@ import Navbar from "$lib/Navbar.svelte";
         padding: 0 7%;
     }
     h3{
+        font-family: "Syne", sans-serif;
         font-size: 1.8rem;
         color: var(--maintext);
          
+    }
+    p{
+        font-family: "Syne", sans-serif;
     }
     .resumebox{
         margin-bottom: 2rem;
