@@ -79,12 +79,12 @@ h2{
     right:0;
     height: 100vh;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.644);    
+    background-color: #111111a4;    
     backdrop-filter: blur(2px);
     -webkit-backdrop-filter: blur(2px);
 }
 p{
-    /* font-family: "Urbanist",sans-serif; */
+    
     font-size: 3.3rem;
     margin: .1rem 0;
     font-weight: 200;
@@ -95,7 +95,7 @@ h1{
     font-size: 3rem;
 }
 h3{
-    /* font-family: "Urbanist",sans-serif; */
+    
     margin: 0.8rem 0 2rem 0;
     font-weight: 300;
     font-size: 1.1rem;
