@@ -16,7 +16,7 @@
     align-items: center;
 }
 img{
-    width: 70%;
+    width: 90%;
 }
 
 a{
