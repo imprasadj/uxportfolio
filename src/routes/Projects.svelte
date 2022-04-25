@@ -19,27 +19,27 @@
 </div>
 <section class="projects" id="projects">
     
-    
-    <div class="container2">
-        <div class="textcontainer">
-            <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
-                <p>01</p>
-                <h1>Tesla</h1>
-                <h3>Display concept UI for right hand driving systems</h3>
-                <a href="/teslaux">Go to project</a>
-            </div>
-        </div>
-    </div>
     <div class="container3">
         <div class="textcontainer">
             <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
-                <p>02</p>
+                <p>01</p>
                 <h1>RESQ</h1>
                 <h3>App redesign for city's only animal rescue unit</h3>
                 <a href="/resqux">Go to project</a>
             </div>
         </div>
     </div>
+    <div class="container2">
+        <div class="textcontainer">
+            <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
+                <p>02</p>
+                <h1>Tesla</h1>
+                <h3>Display concept UI for right hand driving systems</h3>
+                <a href="/teslaux">Go to project</a>
+            </div>
+        </div>
+    </div>
+    
     <div class="container1">
         <div class="textcontainer">
             <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
