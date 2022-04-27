@@ -29,7 +29,7 @@ onMount(() => {
             WELCOME
             </h1>
                 <p data-aos="fade-in" data-aos-duration="2000" data-aos-delay="1000" data-aos-anchor-placement="bottom">
-                I am Prasad, <br>I'm a Experience Designer. 
+                I am Prasad, <br>A Experience Designer. 
                 </p>
         </div>
         <div class="arrow-container" data-aos="fade-in" data-aos-duration="2000" data-aos-delay="2000" data-aos-anchor-placement="bottom">

@@ -24,10 +24,10 @@ import Navbar from "$lib/Navbar.svelte";
     <div class="resume" id="resume">
         <h3>Resumé</h3>
         <div class="resumebox">
-            <img src="/resume.webp" alt="">
+            <img src="/cv.png" alt="">
         </div>
-        <a href="https://drive.google.com/uc?export=download&id=1zQ6kCG7MAxo72TfaRNQlDZ4fAGnDIpdl">
-            <button>Download Resume</button>
+        <a href="https://drive.google.com/uc?export=download&id=1s_GFiy07Sa1E8PVDjXdLFRcp1Y8C0teX">
+            <button>Download Resume (pdf)</button>
         </a>
         
     </div>
@@ -125,7 +125,7 @@ import Navbar from "$lib/Navbar.svelte";
         margin-bottom: 2rem;
     }
     img{
-        width: 500px;
+        width: 60%;
         height: auto;
         box-shadow: 1px 10px 25px #000000;
     }
