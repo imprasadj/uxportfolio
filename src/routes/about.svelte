@@ -31,7 +31,22 @@ import Navbar from "$lib/Navbar.svelte";
         </a>
         
     </div>
-    
+    <div class="hobbies">
+        <h3>Apart from work.</h3>
+        <h4>
+            I'm a proficient Blender3D user and a 3D Environment Artist.<br/>
+            I'm one of the 500 contributers on Unsplash with over 6million views and 170K downloads.
+            (All my Artworks are available for free under unsplash license)<br/>
+
+            I am also a music enthusiast who loves to compose, write orchestral / ambient music.
+            <br/>
+            I am keen about Luxury Automobiles,Technology and in-car HMI's.
+            <br/><br/>
+            Check some of my work on:<br/>
+            <a target="_blank" href="https://www.artstation.com/prasadsanctuary">Artstation</a> |
+            <a target="_blank" href="https://unsplash.com/@prasadjadhav">Unsplash</a>  
+        </h4>
+    </div>
 </div>
 
 
@@ -116,7 +131,7 @@ import Navbar from "$lib/Navbar.svelte";
         font-family: "Syne", sans-serif;
         font-size: 1.8rem;
         color: var(--maintext);
-         
+        text-align: center;
     }
     p{
         font-family: "Syne", sans-serif;
@@ -139,6 +154,30 @@ import Navbar from "$lib/Navbar.svelte";
         cursor: pointer;
         background-color: rgb(102, 194, 255);
     }
+
+
+    .hobbies{
+        padding: 7% 25%;
+        text-align: left;
+    }
+    h4{
+        color: var(--sectext);
+        font-family: "Outfit",sans-serif;
+        font-size: 1.2rem;
+        font-weight: 400;
+        line-height: 2rem;
+        padding: 2rem;
+        background-color: #151515;
+        border-radius: 5px;
+        
+    }
+    a{
+        color: #cdcdcd;
+        text-decoration: underline !important; 
+    }
+    a:hover{
+        color: var(--maintext);
+    }
 /* ---------------------------------------------------MEDIA QUERIES */
     @media (max-width:815px){
         img{
@@ -156,7 +195,13 @@ import Navbar from "$lib/Navbar.svelte";
             background-size: auto;
             background-position: right;
         }
-
+        .hobbies{
+            padding: 10% 10% 0 10%;
+            text-align: left;
+        }
+        .hobbies h4{
+            font-size: 1rem;
+        }
     }
 
 

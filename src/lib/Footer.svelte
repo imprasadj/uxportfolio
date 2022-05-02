@@ -92,7 +92,7 @@ span{
 
 
 .footerbox{
-    padding: 0 13%;
+    padding: 0 10%;
     display: grid;
     grid-template-columns: 1fr;
 }

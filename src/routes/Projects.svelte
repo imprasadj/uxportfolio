@@ -25,28 +25,28 @@
                 <p>01</p>
                 <h1>RESQ</h1>
                 <h3>App redesign for city's only animal rescue unit</h3>
-                <a href="/resqux">Go to project</a>
+                <a target="_blank" href="https://www.behance.net/gallery/124483607/Animal-Rescue-Webapp-redesign">Go to project</a>
             </div>
         </div>
     </div>
-    <div class="container2">
+    <div class="container1">
         <div class="textcontainer">
             <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
                 <p>02</p>
-                <h1>Tesla</h1>
-                <h3>Display concept UI for right hand driving systems</h3>
-                <a href="/teslaux">Go to project</a>
+                <h1>HMI</h1>
+                <h3>A dashboard display concept(wip)</h3>
+                <a target="_blank" href="https://www.behance.net/gallery/142381103/Vehicle-HMI-Display-%28concept%29">Go to project</a>
             </div>
         </div>
     </div>
     
-    <div class="container1">
+    <div class="container2">
         <div class="textcontainer">
             <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
                 <p>03</p>
-                <h1>AC controls</h1>
-                <h3>Interaction on a vertical display concept(wip)</h3>
-                <a href="/hmiux">Go to project</a>
+                <h1>Tesla</h1>
+                <h3>Tesla display</h3>
+                <a target="_blank" href="https://www.behance.net/gallery/142381103/Vehicle-HMI-Display-%28concept%29">Go to project</a>
             </div>
         </div>
     </div>
@@ -124,7 +124,7 @@ h3{
     top: 100vh;
     height: 100vh;
     background-color: rgb(243, 243, 243);
-    background-image: url("/musicui.webp");
+    background-image: url("/hmi.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
