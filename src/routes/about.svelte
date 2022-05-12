@@ -167,7 +167,7 @@ import Navbar from "$lib/Navbar.svelte";
         font-weight: 400;
         line-height: 2rem;
         padding: 2rem;
-        background-color: #151515;
+        background-color: #19191a;
         border-radius: 5px;
         
     }
@@ -201,6 +201,7 @@ import Navbar from "$lib/Navbar.svelte";
         }
         .hobbies h4{
             font-size: 1rem;
+            padding: 1.2rem;
         }
     }
 

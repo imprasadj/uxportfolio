@@ -45,8 +45,8 @@
             <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
                 <p>03</p>
                 <h1>Tesla</h1>
-                <h3>Tesla display</h3>
-                <a target="_blank" href="https://www.behance.net/gallery/142381103/Vehicle-HMI-Display-%28concept%29">Go to project</a>
+                <h3>The iconic touch display</h3>
+                <a target="_blank" href="https://www.behance.net/gallery/125374903/Tesla-Model-3-Dashboard-Screen">Go to project</a>
             </div>
         </div>
     </div>
