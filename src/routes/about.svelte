@@ -24,9 +24,9 @@ import Navbar from "$lib/Navbar.svelte";
     <div class="resume" id="resume">
         <h3>Resumé</h3>
         <div class="resumebox">
-            <img src="/cv.png" alt="">
+            <img src="/Resume.webp" alt="">
         </div>
-        <a href="https://drive.google.com/uc?export=download&id=1s_GFiy07Sa1E8PVDjXdLFRcp1Y8C0teX">
+        <a href="https://drive.google.com/uc?export=download&id=1wdlHhTieiUCMlInsmrWY0Nu0kwbB_wMc">
             <button>Download Resume (pdf)</button>
         </a>
         
@@ -162,7 +162,7 @@ import Navbar from "$lib/Navbar.svelte";
     }
     h4{
         color: var(--sectext);
-        font-family: "Outfit",sans-serif;
+        font-family: var(--bodyfont);
         font-size: 1.2rem;
         font-weight: 400;
         line-height: 2rem;

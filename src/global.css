@@ -1,10 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500&display=swap");
+
 :root {
   /* Colours */
   --maintext: rgb(255, 255, 255);
   --sectext: rgb(170, 170, 170);
   --bgcolor: #111111;
+  --bodyfont: "Outfit", sans-serif;
 }
 html,
 body {
@@ -18,13 +20,18 @@ a {
   text-transform: unset !important;
 }
 p {
-  font-family: "Outfit", sans-serif;
+  font-family: var(--bodyfont);
 }
 
 h3 {
-  font-family: "Outfit", sans-serif;
+  font-family: var(--bodyfont);
 }
 
 h2 {
   font-family: "Syne", sans-serif;
+}
+h4 {
+  font-family: var(--bodyfont);
+  font-weight: 300;
+  margin: 0;
 }

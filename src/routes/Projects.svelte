@@ -24,8 +24,11 @@
             <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
                 <p>01</p>
                 <h1>RESQ</h1>
-                <h3>App redesign for city's only animal rescue unit</h3>
-                <a target="_blank" href="https://www.behance.net/gallery/124483607/Animal-Rescue-Webapp-redesign">Go to project</a>
+                <h3>Webapp redesign for city's only animal rescue unit</h3>
+                <h4>
+                    <a href="https://www.behance.net/gallery/124483607/Animal-Rescue-Webapp-redesign" target="_blank">
+                        Go to project</a>
+                </h4>
             </div>
         </div>
     </div>
@@ -35,7 +38,10 @@
                 <p>02</p>
                 <h1>HMI</h1>
                 <h3>A dashboard display concept(wip)</h3>
-                <a target="_blank" href="https://www.behance.net/gallery/142381103/Vehicle-HMI-Display-%28concept%29">Go to project</a>
+                <h4>
+                    <a href="https://www.behance.net/gallery/142381103/Vehicle-HMI-Display-%28concept%29" target="_blank" >
+                        Go to project</a>
+                </h4>       
             </div>
         </div>
     </div>
@@ -44,9 +50,12 @@
         <div class="textcontainer">
             <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
                 <p>03</p>
-                <h1>Tesla</h1>
-                <h3>The iconic touch display</h3>
-                <a target="_blank" href="https://www.behance.net/gallery/125374903/Tesla-Model-3-Dashboard-Screen">Go to project</a>
+                <h1>4DX Cinemas</h1>
+                <h3>UX/UI case study</h3>
+                <h4>
+                    <a href="https://www.behance.net/gallery/144683411/4DX-Cinemas" target="_blank">
+                        Go to project</a>
+                </h4>    
             </div>
         </div>
     </div>
@@ -79,13 +88,14 @@ h2{
     right:0;
     height: 100vh;
     width: 100%;
-    background-color: #111111a4;    
+    background-color: rgba(0, 0, 0, 0.696);    
     backdrop-filter: blur(2px);
     -webkit-backdrop-filter: blur(2px);
+    
 }
 p{
     
-    font-size: 3.3rem;
+    font-size: 2.3rem;
     margin: .1rem 0;
     font-weight: 200;
 }
@@ -93,29 +103,37 @@ h1{
     margin: 0;
     font-weight: 500;
     font-size: 3rem;
+    font-family: var(--bodyfont);
 }
 h3{
     
-    margin: 0.8rem 0 2rem 0;
+    margin: 2rem 0 0 0;
     font-weight: 300;
     font-size: 1.1rem;
 }
-.text a{
-    text-decoration: none;
-    padding-top:0.8rem;
-    border-bottom: 2px solid white;
-    transition: .2s ease-out;
+h4{
+    margin-top: 1.2rem;
+    font-weight: 300;
 }
-.text a:hover{
-    letter-spacing: 1px;
+
+
+a{  
+    text-decoration: none;
+    transition: .2s ease-out;
+    color: rgb(255, 255, 255);
+    border-bottom:1px solid rgb(165, 165, 165);
+}
+a:hover{
+    letter-spacing: .5px;
+    border-bottom:1px solid rgb(255, 255, 255)
 }
 
 .text{
-    padding: .5rem;
+    /* padding: .5rem; */
     margin-left:8%;
     margin-right: 6%;
     padding-top: 10rem;
-    color: aliceblue !important;
+    color: rgb(255, 255, 255) !important;
 }
 
 .container1{
@@ -135,7 +153,7 @@ h3{
     top: 100vh;
     height: 100vh;
     background-color: rgb(243, 243, 243);
-    background-image: url("/Teslamockup.webp");
+    background-image: url("/4dx.webp");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -161,7 +179,8 @@ h3{
 @media (min-width:800px){
 .textcontainer{
     width: 50%;
-    backdrop-filter: blur(5px);
+    background-color: rgba(0, 0, 0, 0.475);
+    backdrop-filter: blur(2px);
     -webkit-backdrop-filter: blur(5px);
 }
 h2{
