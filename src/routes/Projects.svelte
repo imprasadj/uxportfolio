@@ -94,7 +94,6 @@ h2{
     
 }
 p{
-    
     font-size: 2.3rem;
     margin: .1rem 0;
     font-weight: 200;

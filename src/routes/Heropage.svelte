@@ -26,10 +26,10 @@ onMount(() => {
     <section class="hero" id="hero">
         <div class="hero-text" id="hero-text"> 
             <h1 class="gradient" data-aos="fade-in" data-aos-duration="2000" data-aos-delay="500" data-aos-anchor-placement="bottom">
-            WELCOME
+            Welcome
             </h1>
                 <p data-aos="fade-in" data-aos-duration="2000" data-aos-delay="1000" data-aos-anchor-placement="bottom">
-                I am Prasad, <br>A Experience Designer. 
+                I am Prasad, a Experience Designer. 
                 </p>
         </div>
         <div class="arrow-container" data-aos="fade-in" data-aos-duration="2000" data-aos-delay="2000" data-aos-anchor-placement="bottom">
@@ -68,14 +68,15 @@ onMount(() => {
 
 
 h1{ 
-    font-weight: 700;
-    letter-spacing: 1rem;
-    font-size: 2.2rem;
+  font-family: rotlight;
+    font-weight: 100;
+    letter-spacing: .8rem;
+    font-size: 4.2rem;
     line-height: 83%;
     text-align: center;
     z-index: 5;
-    
-    background: linear-gradient(-70deg, #ffdf86e0, #ffffff6c, #ffffffe1,#c59ae9be,#ffffff88);
+    margin-bottom: 2rem;
+    background: linear-gradient(-70deg, #ffffffe0, #ffffff, #ffffff,#ae4bffbe,#ffffff88);
     background-size: auto;
     background-clip: border-box;
     -webkit-background-clip: text;
@@ -96,11 +97,12 @@ h1{
 }
 
 p{  
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     text-align: center;
     margin: 0;
     line-height: 170%;
     color: var(--maintext);
+    font-weight: 200;
 }
 
 
@@ -147,8 +149,10 @@ p{
 
 @media (min-width:800px){
     h1{
-        font-size: 4rem;
-        
+        font-size: 7rem; 
+    }
+    p{
+      font-size: 1.8rem;
     }
     .hero-text{
         text-align: left;

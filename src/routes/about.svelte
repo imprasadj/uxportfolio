@@ -16,9 +16,7 @@ import Navbar from "$lib/Navbar.svelte";
                         </p>
                     </h2>
                 </div>
-            </div>
-               
-            
+            </div>       
     </div>
 
     <div class="resume" id="resume">
@@ -149,6 +147,7 @@ import Navbar from "$lib/Navbar.svelte";
         font-size: 1.1rem;
         border: none;
         transition: 0.3s;
+        font-family: var(--bodyfont);
     }
     button:hover{
         cursor: pointer;
@@ -169,7 +168,7 @@ import Navbar from "$lib/Navbar.svelte";
         padding: 2rem;
         background-color: #19191a;
         border-radius: 5px;
-        
+        letter-spacing: 0.8px;
     }
     a{
         color: #cdcdcd;
