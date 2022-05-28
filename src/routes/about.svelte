@@ -140,14 +140,17 @@ import Navbar from "$lib/Navbar.svelte";
     img{
         width: 60%;
         height: auto;
-        box-shadow: 1px 10px 25px #000000;
+        border-radius: .1rem;
     }
+    
+
     button{
         padding: 1.1rem 3rem;
         font-size: 1.1rem;
         border: none;
         transition: 0.3s;
         font-family: var(--bodyfont);
+        border-radius: .1rem;
     }
     button:hover{
         cursor: pointer;
@@ -168,7 +171,7 @@ import Navbar from "$lib/Navbar.svelte";
         padding: 2rem;
         background-color: #19191a;
         border-radius: 5px;
-        letter-spacing: 0.8px;
+        /* letter-spacing: 0.8px; */
     }
     a{
         color: #cdcdcd;

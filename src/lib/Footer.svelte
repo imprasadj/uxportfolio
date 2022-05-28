@@ -12,7 +12,7 @@
         <div class="right">
             <h3>SOCIALS<br/>  
                 <span>
-                    <a target="_blank" href="https://twitter.com/prasadjux">behance</a>
+                    <a target="_blank" href="https://www.behance.net/prasad-jadhav">behance</a>
                     <a target="_blank" href="https://www.linkedin.com/in/prasad-1feb97/">LinkedIn</a>
                     <a target="_blank" href="https://unsplash.com/@prasadjadhav">Unsplash</a>
                 </span>

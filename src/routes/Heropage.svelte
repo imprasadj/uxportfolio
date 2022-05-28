@@ -26,7 +26,7 @@ onMount(() => {
     <section class="hero" id="hero">
         <div class="hero-text" id="hero-text"> 
             <h1 class="gradient" data-aos="fade-in" data-aos-duration="2000" data-aos-delay="500" data-aos-anchor-placement="bottom">
-            Welcome
+            Welcome!
             </h1>
                 <p data-aos="fade-in" data-aos-duration="2000" data-aos-delay="1000" data-aos-anchor-placement="bottom">
                 I am Prasad, a Experience Designer. 

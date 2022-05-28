@@ -27,7 +27,7 @@
                 <h3>Webapp redesign for city's only animal rescue unit</h3>
                 <h4>
                     <a href="https://www.behance.net/gallery/124483607/Animal-Rescue-Webapp-redesign" target="_blank">
-                        Go to project</a>
+                        <button>Go to project</button></a>
                 </h4>
             </div>
         </div>
@@ -40,7 +40,7 @@
                 <h3>A dashboard display concept(wip)</h3>
                 <h4>
                     <a href="https://www.behance.net/gallery/142381103/Vehicle-HMI-Display-%28concept%29" target="_blank" >
-                        Go to project</a>
+                        <button>Go to project</button></a>
                 </h4>       
             </div>
         </div>
@@ -54,7 +54,7 @@
                 <h3>UX/UI case study</h3>
                 <h4>
                     <a href="https://www.behance.net/gallery/144683411/4DX-Cinemas" target="_blank">
-                        Go to project</a>
+                       <button>Go to project</button></a>
                 </h4>    
             </div>
         </div>
@@ -111,21 +111,29 @@ h3{
     font-size: 1.1rem;
 }
 h4{
-    margin-top: 1.2rem;
+    margin-top: 1.5rem;
     font-weight: 300;
 }
-
+button{
+    font-family: var(--bodyfont);
+    padding: 1rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: .1rem;
+    border-style: none;
+    transition: .2s ease-in-out;
+    cursor: pointer;
+}
+button:hover{
+    letter-spacing: .5px;
+}
 
 a{  
     text-decoration: none;
     transition: .2s ease-out;
-    color: rgb(255, 255, 255);
-    border-bottom:1px solid rgb(165, 165, 165);
+    color: rgb(0, 0, 0);
+    /* border-bottom:1px solid rgb(165, 165, 165); */
 }
-a:hover{
-    letter-spacing: .5px;
-    border-bottom:1px solid rgb(255, 255, 255)
-}
+
 
 .text{
     /* padding: .5rem; */
