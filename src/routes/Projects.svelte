@@ -23,10 +23,10 @@
         <div class="textcontainer">
             <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
                 <p>01</p>
-                <h1>RESQ</h1>
-                <h3>Webapp redesign for city's only animal rescue unit</h3>
+                <h1>Pune Metro</h1>
+                <h3>Rebranding and redesign of city's first ever Metro rail</h3>
                 <h4>
-                    <a href="https://www.behance.net/gallery/124483607/Animal-Rescue-Webapp-redesign" target="_blank">
+                    <a href="https://www.behance.net/gallery/144895185/Pune-Metro-Rebranding-Redesign" target="_blank">
                         <button>Go to project</button></a>
                 </h4>
             </div>
@@ -173,7 +173,7 @@ a{
     top: 100vh;
     height: 100vh;
     background-color: rgb(243, 243, 243);
-    background-image: url("/resq3.webp");
+    background-image: url("/Metro.webp");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
