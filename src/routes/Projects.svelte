@@ -21,7 +21,7 @@
     
     <div class="container3">
         <div class="textcontainer">
-            <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
+            <div class="text" data-aos="fade-in" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
                 <p>01</p>
                 <h1>Pune Metro</h1>
                 <h3>Rebranding and redesign of city's first ever Metro rail</h3>
@@ -32,10 +32,26 @@
             </div>
         </div>
     </div>
+    
+
+    <div class="container4">
+        <div class="textcontainer">
+            <div class="text" data-aos="fade-in" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
+                <p>02</p>
+                <h1>RESQ</h1>
+                <h3>Webapp redesign</h3>
+                <h4>
+                    <a href="https://www.behance.net/gallery/124483607/Animal-Rescue-Webapp-redesign" target="_blank" >
+                        <button>Go to project</button></a>
+                </h4>       
+            </div>
+        </div>
+    </div>
+    
     <div class="container1">
         <div class="textcontainer">
-            <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
-                <p>02</p>
+            <div class="text" data-aos="fade-in" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
+                <p>03</p>
                 <h1>HMI</h1>
                 <h3>A dashboard display concept(wip)</h3>
                 <h4>
@@ -45,11 +61,11 @@
             </div>
         </div>
     </div>
-    
+
     <div class="container2">
         <div class="textcontainer">
-            <div class="text" data-aos="fade-up" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
-                <p>03</p>
+            <div class="text" data-aos="fade-in" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
+                <p>04</p>
                 <h1>4DX Cinemas</h1>
                 <h3>UX/UI case study</h3>
                 <h4>
@@ -179,7 +195,17 @@ a{
     background-position: center;
 }
 
-
+.container4{
+    z-index: 50;
+    width: 100%;
+    top: 100vh;
+    height: 100vh;
+    background-color: rgb(243, 243, 243);
+    background-image: url("/resq3.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
 
 /* ==============Media Queries============================ */
 

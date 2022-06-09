@@ -26,7 +26,7 @@ onMount(() => {
     <section class="hero" id="hero">
         <div class="hero-text" id="hero-text"> 
             <h1 class="gradient" data-aos="fade-in" data-aos-duration="2000" data-aos-delay="500" data-aos-anchor-placement="bottom">
-            Welcome!
+            Welcome
             </h1>
                 <p data-aos="fade-in" data-aos-duration="2000" data-aos-delay="1000" data-aos-anchor-placement="bottom">
                 I am Prasad, a Experience Designer. 
@@ -71,7 +71,7 @@ h1{
   font-family: rotlight;
     font-weight: 100;
     letter-spacing: .8rem;
-    font-size: 4.2rem;
+    font-size: 3.2rem;
     line-height: 83%;
     text-align: center;
     z-index: 5;
@@ -97,7 +97,7 @@ h1{
 }
 
 p{  
-    font-size: 1.2rem;
+    font-size: 1rem;
     text-align: center;
     margin: 0;
     line-height: 170%;

@@ -10,7 +10,7 @@ import Navbar from "$lib/Navbar.svelte";
     <div class="aboutbox">
             <div class="overlay">
                 <div class="left">
-                    <h2>Hello,<br/> <p>I'm a UX Designer who believes in thoughtfully crafted design.
+                    <h2>Hello,<br/> <p>I'm a Designer who believes in thoughtfully crafted design.
                         Experience design helps me to have my technical knowledge 
                         and my creativity all at the same place to create design solutions.
                         </p>
