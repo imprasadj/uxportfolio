@@ -24,7 +24,7 @@ import Navbar from "$lib/Navbar.svelte";
         <div class="resumebox">
             <img src="/Resume.webp" alt="">
         </div>
-        <a href="https://drive.google.com/uc?export=download&id=1wdlHhTieiUCMlInsmrWY0Nu0kwbB_wMc">
+        <a href="https://drive.google.com/uc?export=download&id=1fN92a_mLpYXtrFkTEtOVXNvWKuUD99ju">
             <button>Download Resume (pdf)</button>
         </a>
         
