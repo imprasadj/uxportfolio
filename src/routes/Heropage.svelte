@@ -26,11 +26,11 @@ onMount(() => {
     <section class="hero" id="hero">
         <div class="hero-text" id="hero-text"> 
             <h1 class="gradient" data-aos="fade-in" data-aos-duration="2000" data-aos-delay="500" data-aos-anchor-placement="bottom">
-            Welcome
+              Welcome 
             </h1>
                 <p data-aos="fade-in" data-aos-duration="2000" data-aos-delay="1000" data-aos-anchor-placement="bottom">
-                I am Prasad, a Experience Designer. 
-                </p>
+                I am Prasad, an Experience Designer
+                </p> 
         </div>
         <div class="arrow-container" data-aos="fade-in" data-aos-duration="2000" data-aos-delay="2000" data-aos-anchor-placement="bottom">
             <div class="arrow-down"></div>
@@ -68,21 +68,21 @@ onMount(() => {
 
 
 h1{ 
-  font-family: rotlight;
-    font-weight: 100;
-    letter-spacing: .8rem;
+  font-family: var(--labelfont);
+    font-weight: 600;
+    letter-spacing: .2rem;
     font-size: 3.2rem;
     line-height: 83%;
     text-align: center;
     z-index: 5;
-    margin-bottom: 2rem;
-    background: linear-gradient(-70deg, #ffffffe0, #ffffff, #ffffff,#ae4bffbe,#ffffff88);
-    background-size: auto;
+    margin-bottom: 1rem;
+    background: linear-gradient(40deg, #fcfcfc91, #e1c9ff, #785a8e67,#eac0fffb,#cd94ff7c);
+    /* background-size: auto; */
     background-clip: border-box;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-size: 400% 400%;
-    animation: gradient 11s ease infinite;
+    background-size: 2200% 2500%;
+    animation: gradient 7s ease infinite;
 }
 @keyframes gradient{
     0% {
@@ -149,10 +149,10 @@ p{
 
 @media (min-width:800px){
     h1{
-        font-size: 7rem; 
+        font-size: 6rem; 
     }
     p{
-      font-size: 1.8rem;
+      font-size: 1.6rem;
     }
     .hero-text{
         text-align: left;

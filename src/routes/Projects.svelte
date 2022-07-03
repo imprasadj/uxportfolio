@@ -33,13 +33,26 @@
         </div>
     </div>
     
+    <div class="container2">
+        <div class="textcontainer">
+            <div class="text" data-aos="fade-in" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
+                <p>02</p>
+                <h1>NayeNayan</h1>
+                <h3>Landing page design for Bhumi NGO</h3>
+                <h4>
+                    <a href="https://www.behance.net/gallery/144681549/App-development-Agency%28fictional%29" target="_blank">
+                       <button>Go to project</button></a>
+                </h4>    
+            </div>
+        </div>
+    </div>
 
     <div class="container4">
         <div class="textcontainer">
             <div class="text" data-aos="fade-in" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
-                <p>02</p>
+                <p>03</p>
                 <h1>RESQ</h1>
-                <h3>Webapp redesign</h3>
+                <h3>Webapp redesign for the only rescue unit in the city</h3>
                 <h4>
                     <a href="https://www.behance.net/gallery/124483607/Animal-Rescue-Webapp-redesign" target="_blank" >
                         <button>Go to project</button></a>
@@ -51,7 +64,7 @@
     <div class="container1">
         <div class="textcontainer">
             <div class="text" data-aos="fade-in" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
-                <p>03</p>
+                <p>04</p>
                 <h1>HMI</h1>
                 <h3>A dashboard display concept(wip)</h3>
                 <h4>
@@ -62,19 +75,7 @@
         </div>
     </div>
 
-    <div class="container2">
-        <div class="textcontainer">
-            <div class="text" data-aos="fade-in" data-aos-duration="500" data-aos-anchor-placement="bottom-bottom">
-                <p>04</p>
-                <h1>4DX Cinemas</h1>
-                <h3>UX/UI case study</h3>
-                <h4>
-                    <a href="https://www.behance.net/gallery/144683411/4DX-Cinemas" target="_blank">
-                       <button>Go to project</button></a>
-                </h4>    
-            </div>
-        </div>
-    </div>
+    
 
 </section>
 
@@ -176,7 +177,7 @@ a{
     top: 100vh;
     height: 100vh;
     background-color: rgb(243, 243, 243);
-    background-image: url("/4dx.webp");
+    background-image: url("/Nayenayan.webp");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
