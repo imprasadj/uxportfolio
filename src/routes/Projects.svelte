@@ -14,7 +14,7 @@
 </script>
 <div class="proj" id="proj">
 <h2 data-aos="zoom-in">
-    Projects
+    PROJECTS
 </h2>
 </div>
 <section class="projects" id="projects">
@@ -122,7 +122,6 @@ h1{
     font-family: var(--bodyfont);
 }
 h3{
-    
     margin: 2rem 0 0 0;
     font-weight: 300;
     font-size: 1.1rem;

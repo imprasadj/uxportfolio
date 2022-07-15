@@ -1,21 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500&display=swap");
-
-@font-face {
-  font-family: rot;
-  src: url(/static/Fonts/Rota-Regular.otf);
-}
-@font-face {
-  font-family: rotlight;
-  src: url(/static/Fonts/Rota-ExtraLight.otf);
-}
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@200;300;400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@200;300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400&display=swap");
 
 :root {
   /* Colours */
   --maintext: rgb(255, 255, 255);
   --sectext: rgb(170, 170, 170);
   --bgcolor: #111111;
-  --bodyfont: "Outfit", sans-serif;
+  --bodyfont: "Sora", sans-serif;
   --labelfont: "Syne", sans-serif;
 }
 html,
