@@ -38,6 +38,7 @@ function closeNav() {
         <li><a href="/#proj">work</a></li>
         <li><a href="/about">about</a></li>
         <li><a href="/about#resume">resumé</a></li>
+        <li><a href="https://prasadsanctuary.netlify.app/">3D</a></li>
     </div>
 </div>
 
@@ -125,6 +126,8 @@ header{
         flex-direction: column;
         align-items: center;
         justify-content: center;
+        font-family: "Sora",sans-serif;
+        font-weight: 200;
 }
 .overlay a{
         padding: 20px;
